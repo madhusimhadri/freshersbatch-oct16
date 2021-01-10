@@ -4,7 +4,7 @@ This is a readme file in Assignments directory.
 <<<<<<< HEAD
 =======
 
-
+Making minor chanages to readme file and then commiting to master
 MAking more changes and commiting it to master
 =======
 ======
