@@ -1,2 +1,7 @@
 This is a readme file in Assignments directory.
-Making minor changes in README.txt and commiting into master
+<<<<<<< HEAD
+
+=======
+
+Making few more changes to the file that belong to html assignments
+>>>>>>> html-assignments
