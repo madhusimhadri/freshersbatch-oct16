@@ -4,7 +4,7 @@ This is a readme file in Assignments directory.
 <<<<<<< HEAD
 =======
 
-
+Making minor changes into readme file belonging to js-assignments branch
 MAking more changes and commiting it to master
 =======
 ======
